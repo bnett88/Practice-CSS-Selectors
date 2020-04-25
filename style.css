@@ -1,0 +1,44 @@
+.container{
+    width:250px;
+    height:30px;
+  
+   
+    
+}
+.asteroid{
+    border-color: green;
+    border-style: solid;
+    border-width: 1px; 
+    
+      
+}
+.asteroid, #b325 {
+    color:black;
+    background:white;
+    font-weight:bold;
+}
+
+.b326{
+
+    border-color: green;
+    border-style: solid;
+    border-width: 1px;  
+    
+}
+
+.big{
+    background:yellow;
+    border:none;
+    font-weight:normal;
+    width:250px;
+    height:30px;
+}
+p{
+    color:blue;
+}
+.b329, big{
+    background:white;
+    color:blue;
+    border:none;
+    font-weight:bold;
+}
